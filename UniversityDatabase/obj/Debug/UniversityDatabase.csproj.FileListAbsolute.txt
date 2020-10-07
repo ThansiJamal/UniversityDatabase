@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\bin\Debug\UniversityDatabase.exe.config
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\bin\Debug\UniversityDatabase.exe
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\bin\Debug\UniversityDatabase.pdb
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.Form1.resources
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.Properties.Resources.resources
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.csproj.GenerateResource.cache
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.exe
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.pdb
+C:\Users\user\source\repos\UniversityDatabase\UniversityDatabase\obj\Debug\UniversityDatabase.RegisterForm.resources
